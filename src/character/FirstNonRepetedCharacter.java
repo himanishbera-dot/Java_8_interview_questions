@@ -7,7 +7,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /*Find the First Non-Repeated (Unique) Character*/
-public class FirstUniqueCharacter {
+public class FirstNonRepetedCharacter {
     public static void main(String[] args) {
         String input = "swiss";
 
